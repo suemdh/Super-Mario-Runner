@@ -1,1 +1,1 @@
-# Super-Mario-Runner
+# Super-Mario-Run
